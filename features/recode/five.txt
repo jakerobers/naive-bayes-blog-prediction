@@ -1,0 +1,13 @@
+Not content with the pace of its global expansion, payments company Stripe on Wednesday announced a new service that will let overseas businesses incorporate as U.S. businesses without setting foot on U.S. soil.
+
+Speaking at Mobile World Congress, CEO Patrick Collison said the move was an effort to make institutional what some enterprising entrepreneurs had already been doing — that is, registering as U.S. businesses in order to access Stripe’s merchant services.
+
+With Altas, companies get registered as a Delaware corporation and can set up a U.S. bank account as well as open a Stripe merchant account. To offer Atlas, Stripe is teaming up with a number of partners including Silicon Valley Bank, law firm Orrick and consultancy PwC.
+
+“We thought it was crazy this product didn’t exist,” Collison said during a session moderated by Re/code.
+
+For now, Atlas is in beta and only available by invitation, but Collison said the goal is to quickly grow it and eventually allow businesses to register in countries other than the United States. Beta customers pay $500 to take part.
+
+Stripe gets new payments business in one of two ways: Stealing business from incumbent payment providers or serving brand-new businesses. This helps with the latter.
+
+One question, though, is whether the service will allow for fraud or criminal activity. Collison said there would be a background check system associated with Atlas.

@@ -1,0 +1,60 @@
+Parker Conrad has resigned as CEO of Zenefits, following a number of regulatory compliance failures at the richly valued human resources startup he co-founded, according to an email sent to employees on Monday.
+
+David Sacks, the chief operating officer, who formerly was an executive at PayPal and Yammer, is taking over as CEO. Zenefits also named Joshua Stein, a former federal prosecutor who is a vice president of legal affairs at the company, as its chief compliance officer. Sacks attributed Conrad’s departure to compliance failures by the startup.
+
+“The fact is that many of our internal processes, controls, and actions around compliance have been inadequate, and some decisions have just been plain wrong,” Sacks said in the email. “As a result, Parker has resigned.”
+I haven’t written about Zenefits before now, although the business model certainly is intriguing: the startup offers HR software-as-a-service for free and makes money by acting as an insurance broker for some number of companies using its service. In other words, the product is effectively a lead generation tool.
+
+WHAT WENT RIGHT — AND WRONG
+It’s easy-to-see why the company was so attractive to venture capitalists: Conrad and team created a unique two-sided offering in which Zenefits had an asymmetric advantage in both markets it competed in. On the product side the company was competing with paid solutions with the price of free; on the brokerage size the company could both forego expensive professional agents on the ground in favor of a call center model and explore different marketing channels beyond the ultra-expensive market for insurance keywords on Google.
+
+However, even in a call center agents needed to be licensed, and Conrad’s resignation came on the heels of a series of BuzzFeed reports about the company’s failure to ensure that was the case. The event that reportedly led to Conrad’s effective firing was also about licensing, specifically the discovery of a Zenefits-created program that helped Zenefits’ brokers cheat on the California licensing process (which required a user to be logged in to the training program for 52 hours).
+
+However, the company’s troubles aren’t just regulatory: between August and September Zeneifts $4.5 billion valuation suffered a 48% markdown by Fidelity, mere months after the mutual-fund giant invested in the company, and in November the Wall Street Journal reported that the company was falling well short of its revenue goals and suffering from high turnover and poor morale. Andreessen Horowitz, which counts Zenefits as its largest investment, may have a stated preference for founder CEOs, but I suspect the venture firm wasn’t particularly broken up about having such a clear-cut rationale for showing Conrad the door.
+
+ZENEFITS VERSUS UBER
+In the wake of Conrad’s departure there has been a bit of a meme about Silicon Valley needing to clean up its “move fast and break things” mentality, with most such think-pieces tying Zenefits screwups to Uber’s well-documented run-ins with regulators.
+
+In fact, I made a connection between the two startups on Exponent over a year ago: at the time Uber was in hot water for comments made by Emil Michaels about threatening a journalist (which I condemned), but I noted that the ride-sharing company by necessity had a certain level of scrappiness given the challenges it faced with regulators on the ground. And, as an example of how regulation could run amok, I discussed the fact that Zenefits had been banned in Utah because of its practice of giving away software for free in order to drum up insurance business, which was deemed an illegal rebate (the Utah law was later changed).
+
+I think that Utah episode is a useful way to understand why it is that, despite my having compared Zenefits and Uber a year ago, I don’t think today’s Uber comparisons hold water: specifically, just as is the case with regulations themselves, the validity and viability of “violating” them all comes down to context.
+
+THINKING ABOUT REGULATION
+Here’s how I would think about dealing with regulations, using Zenefits’ prior experience in Utah, along with Uber, as an example:
+
+Is the regulation unambiguous? Utah claimed that Zenefits’ offering of free software was the same thing as an insurance broker offering a rebate, which is absolutely not clear and would need to be litigated. Similarly, while Uber competes with taxis, the vast majority of laws deal with cars that are hailed from the street or from a central dispatcher, not coordination between two independent actors via an app.
+Is the regulation business-critical? Zenefits entire model depends on offering the software for free, which makes it worth the risk of litigating the regulation; same thing with Uber’s skirting of taxi-specific regulations.
+
+Is there a user-benefit to testing the regulation? The entire point of Zenefits’ model is that it provides significant consumer surplus to its users and thus places the company in a superior position to sell insurance. Similarly, Uber provides a superior experience with much better liquidity than taxis.
+
+Is there recourse to adverse regulatory action? When Zenefits was banned in Utah the startup, in large part thanks to support from the active Twitter accounts of Andreessen Horowitz, mobilized much of the startup community in protest; this was particularly effective given Utah’s preexisting efforts to position itself as a startup-friendly state. Uber is especially effective on this point: the company famously mobilizes its users to put political pressure on regulators and elected officials (or, in the case of China, appeals to the leadership’s stated goals of fostering innovation)
+
+Is it right? This is the fuzziest yet most important question, and frankly, it’s hard for any startup to answer honestly. Still, these examples are helpful: Zenefits arguably helps small businesses get started by offering a critical product for free; similarly, Uber takes cars off the road, reduces drunk driving, driver discrimination, etc.
+
+In contrast, note how Zenefits’ recent licensing violations fail every single test:
+
+The regulations around needing a license to sell insurance are unambiguous
+Zenefits’ core value proposition would not be affected by ensuring its salespeople were licensed
+Users did not benefit from Zenefits’ violating these regulations
+Zenefits’ has no recourse should regulators sanction these violations
+It very well may be the case that licensing regulations are busywork, but not by abiding them isn’t “right”; it’s pure convenience
+In other words, these recent Zenefits’ violations are straight up bad business and emblematic of bad judgment; add on the company’s poor performance and internal strife and it seems clear Conrad’s exit was justified.
+
+INCENTIVES
+It seems likely the aforementioned poor performance and these violations were interconnected: a company missing its revenue targets is one that is much more tempted to break the rules, and the creation of a tool specifically designed to skirt an unambiguous regulation speaks to the warping effect of Zenefits’ growth imperative.
+
+Moreover, Zenefits was primed to get this wrong: as clever as Zenefits’ model may have been on paper, it is always problematic when a company’s money-making apparatus is misaligned with its product focus. Either executives are focused on the product and provide too little oversight to the money-making side of things, leading to a bending of the rules in the drive to reach arbitrary goals, or executives focus too much on making money, and the product suffers.
+
+This incentive problem is especially problematic for companies operating in regulatory gray areas: it requires a lot of judgment to determine that pushing the limits in Utah is worth the risk but blatantly breaking licensing rules isn’t, but incentives have a funny way of ensuring that judgment calls always come down on one side or the other.
+
+THE PROBLEM WITH REGULATIONS
+I know that some of you think this argument is gibberish: companies should follow the law as plainly understood and try to change regulation through the legislature, city council, etc. Making judgment calls based on context is a recipe for anarchy.
+
+I (unsurprisingly) disagree for several reasons:
+
+Regulations are one of the most effective moats incumbents have because they already have the infrastructure and revenue streams to deal with them
+Regulatory capture, in which incumbents have overdue influence on what the regulations actually say and do, is very much a real thing and inevitable the longer a regulation is on the books
+Politicians and regulators respond to political pressure, which comes from mobilized constituents; this, by extension, requires an actual product providing actual consumer benefit, not a powerpoint presentation
+We are living in a time when technologies like the smartphone and the Internet are fundamentally changing what is possible, what is dangerous (or not), and incumbents in industries everywhere are threatened and heavily incentivized to exercise their influence on governments struggling to keep up with the pace of change. The last thing we need is companies voluntarily tying their own hands about something that is “right” simply because it’s legally gray.
+
+But, on the flip side, regulatory risk is a real thing, and companies operating in this area must have more judgement and better execution and only choose battles worth fighting. Conrad failed on all three counts, and I suspect it may ultimately doom the company he started.

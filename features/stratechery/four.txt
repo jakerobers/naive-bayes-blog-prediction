@@ -1,0 +1,52 @@
+The idea of a “smartphone” that could connect to the Internet and run applications was around long before 2007; Apple, though, was the first to put the entire package together, including the device, user interface, and interaction paradigm, which is why the first iPhone is considered the start date of the mobile revolution.
+
+Similarly, the idea of a feed of information developed over many years; blogs were based on the format, and RSS allowed users to compile multiple news sources into a single stream. However, the introduction of Twitter in March of 2006, along with the Facebook News Feed, in September 2006, were the two seminal products that brought all the essential components together: users, content, and a place to read. I would argue it’s a date that is just as significant.
+
+Today, having a feed that users willingly return to day-after-day is the foundation of successful mobile advertising companies, especially Facebook. As I noted back in 2013 the feed allows for an advertising unit that is actually superior to anything found on the desktop: users have no choice but to at least visually engage with whatever is dominating the screen of the mobile device that is the center of their lives.
+
+In fact, I would argue that the feed is so important that its development — or lack thereof — is the core reason why Facebook has soared over the last ten years, while Twitter has slumped after a beginning that suggested the exact opposite sort of outcome.
+
+TWITTER’S 2009 SLOWDOWN
+In their 2013 S-1 Twitter released user numbers that only went back to Q1 2010; the best estimate of growth between 2006 and 2010 is found by looking at 3rd-party services reports on traffic to Twitter.com. The numbers, at least for the first three years, are very impressive. This is from comScore:
+Screen Shot 2016-01-26 at 7.08.36 PM
+
+However, later that year something surprising happened: Twitter’s growth dramatically decelerated. Here’s a chart of Nielsen data:
+Screen Shot 2016-01-26 at 7.13.46 PM
+
+That summer produced the first set of stories that have since come to dominate the Twitter narrative: Twitter’s Phenomenal Growth Suddenly Stops, Has Twitter Peaked?, Is Twitter in Trouble, Twitter’s Growth: Has It Peaked?, Twitter’s Global Growth Flattens. In retrospect, the answer is yes: as noted, Twitter reported user numbers starting in 2010 that never came close to the hockey stick growth the company enjoyed from 2006 to 2009.
+
+So what happened?
+
+FACEBOOK VERSUS TWITTER
+The counterpoint to Twitter’s declining growth numbers was, as noted, Facebook. While the company always had a big head start on the desktop, the story was quite a bit different in mobile. In the first quarter of 2009 Facebook only had 35 million active users on mobile, barely more than Twitter’s 30 million active user base (which was predominantly mobile) a year later. However, the trajectory from those starting points couldn’t be more different:
+
+Screen Shot 2016-01-26 at 9.10.49 PM
+
+I suspect the dramatic difference in Facebook and Twitter’s growth was due to three factors:
+
+Facebook always had an inherent advantage over Twitter in that its network, at least in the beginning, was based on networks that already existed in the offline world, namely, people you already knew. That made the service immediately approachable and useful for basically everyone. Twitter, on the other hand, was more about following people you didn’t know based on your interests. This theoretically applied to everyone as well, but uncovering those interests and building an appropriate list of people to follow had to be done from scratch.
+As any product moves down the diffusion curve from early adopters to the mass market, the marginal willingness of each new user to go through the effort of introducing said product into their daily life decreases: early adopters will jump through all kinds of hoops to take advantage of the product’s utility, but the 100 millionth user, to pick a number, is a lot less willing to go through the trouble. In retrospect it seems clear that in 2009 Twitter reached that marginal user: the service had tremendous visibility, but it was simply not worth the effort to get started for an increasing number of people.
+
+Facebook, meanwhile, continued to add to the variety of posts available to their algorithmically generated feed. Yes, the early adopters who had gone to the trouble to tune their feed complained, but the real beneficiaries were users who didn’t want to go to the trouble of making sure they saw something interesting — whether related to friends and family or not — whenever they visited Facebook. And, starting in 2009, those users had even less motivation to get Twitter working: Facebook was good enough.
+
+It’s easy to pontificate on how Twitter and Facebook are fundamentally different services, or to argue that Twitter’s interest graph is potentially more valuable than Facebook’s social graph. Ultimately, though, the two services, along with every other form of media, are competing for the same scarce resource: attention. And, as of 2009, not only was it easier to get started with Facebook, but it was also more likely that the service had enough interesting content to ensure most users had no desire to look for something better.
+
+The rise of mobile accentuated this difference. I wrote in The Facebook Epoch:
+
+Mobile is a great market. It is the greatest market the tech industry, or any industry for that matter, has ever seen, and the reason why is best seen by contrasting mobile with the PC: first, while PCs were on every desk and in every home, mobile is in every pocket of a huge percentage of the world’s population. The sheer numbers triple or quadruple the size, and the separation is increasing. Secondly, though, while using a PC required intent, the use of mobile devices occupies all of the available time around intent. It is only when we’re doing something specific that we aren’t using our phones, and the empty spaces of our lives are far greater than anyone imagined.
+When it comes to “the empty spaces” most people don’t want to do work, but work is exactly what Twitter required. You had to know what you were interested in, know who to follow based on those interests, and then, to top it all off, you had to pick out the parts that you were interested in from a stream of unfiltered tweets; Facebook, in contrast, did the work for you.
+
+THE ATTENTION MARKET
+I have been a fierce critic of Twitter the company ever since they released their S-1, writing at the time that the service had strong monetization prospects but a real user growth problem. Accordingly, I criticized the service for what I perceived as a failure to evolve the product, culminating in a call for a change in leadership last spring; a few months later, consistent with my belief that evolving the product was the key to growth, I made the case for Jack Dorsey to be CEO.
+
+When that happened, and when Twitter released a new product — Moments — that finally abandoned the chronological timeline, I was thrilled, exulting in Twitter’s Moment:
+
+I think, though, it’s time for a new prediction: that the summer of 2015 will be seen as the low point for Twitter, and that this week in particular will mark the start of something new and valuable. Crucially, the reasons why are directly related to why I was bearish for so long: the product, the CEO, and the stock.
+Quite clearly that was wrong: the stock is down 38.38% since I wrote that article, including a 4.6% drop yesterday in the wake of a significant shake-up in the executive suite. As I wrote in the Stratechery Daily Update yesterday, I actually don’t think said shake-up is particularly surprising: if the point of bringing in Dorsey was to overhaul the product then it’s hardly a shock that the head of product and engineering from the previous regime are headed out the door. Still, there’s no question that the company is at an even lower point than they were last fall, but, perhaps there is still room for optimism?
+
+I don’t think so. Unfortunately for Twitter the attention market of 2016 is far different than it was back in 2009. When Dorsey states that he wants Twitter to “become the first thing everyone in the world checks to start their day and the first thing people turn to when they want to share ideas, commentary, or simply what’s happening”, he is no longer trying to capture an entirely new market, but rather to steal that market from well-established competitors, particularly Facebook, but also services like Snapchat, Instagram, and the messaging services, all of which have feeds of their own. And Facebook in particular has undergone its own evolution. I wrote in Facebook and the Feed:
+
+Facebook is compelling for the content it surfaces, regardless of who surfaces it. And, if the latter is the case, then Facebook’s engagement moat is less its network effects than it is that for almost a billion users Facebook is their most essential digital habit: their door to the Internet.
+Or, to put it in Twitter terms, Facebook has developed its own interest graph that is far more powerful and effective and easier-to-use than Twitter’s ever was. Yes, Twitter still owns niches like NBA Twitter, and news hounds like myself (and most of you reading this article) will continue to find it essential, but for nearly everyone else in the world it is Facebook that is the first thing people check, not just in the morning but in all of the empty spaces of their lives. In short, it’s not simply that Twitter needs to convince users to give the service a second-chance, something that is already far more difficult than getting users to sign up for the first time; it’s that even if the service magically had the perfect on-boarding experience leading to the perfect algorithmically-driven feed, it’s not clear why the users it needs would bother looking up from their Facebook feeds.
+
+In other words, my error last fall was not a misguided belief that Moments was a step in the right direction, or that Dorsey was the right person to overhaul Twitter’s product. Rather, I failed to appreciate not just then but in every single post I’ve written about Twitter that anything the company might do can’t make up for the failure to evolve in those critical few years when the attention unlocked by mobile was up for grabs.

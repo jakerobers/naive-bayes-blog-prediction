@@ -1,0 +1,6 @@
+The always-amazing Benedict Evans on patterns of disruption in mobile:
+
+You can see this basic story over and over again in the history of the technology industry. The future always comes looking like a toy. But right now the tech industry is being reset by the mobile, and in mobile, disruption tends to work the other way around. The new thing tends to arrive looking like an expensive luxury for rich people, doing far more than any normal person would need. But over time it gets cheaper, and the new, unnecessary characteristics turn out to be very necessary, and the the old, cheaper, less capable model gets squashed.
+This kind of ‘reverse disruption’ also happens with other advanced, expensive hardware technology products like the automobile, the computer, the television, etc. But the bottom-up disruption pattern is way more common, and almost universally true for applications of those expensive products, especially apps, services, and the industries built on top of them.
+
+See also: Ben Thompson on “obsoletive” technology.

@@ -1,0 +1,58 @@
+People think of Apple as a maker of excellent premium hardware. In fact, many reviewers regard Apple devices as the best you can buy. For instance, I’m on record as saying its most important product, the iPhone, is the best smartphone on the market. So is The Verge overall.
+
+But there’s more than just metal, glass and silicon to these products. Apple’s built-in software is a huge part of the experience, and has been since the company introduced the 20151021-Walt-Mossberg-Steve-Jobs-laughing-D5first Mac in 1984. Whether it’s the operating systems or the core apps, a major aspect of what makes both users and reviewers value Apple products is software that melds power, reliability and ease of use. “It just works!” was a favorite Steve Jobs phrase.
+
+In the last couple of years, however, I’ve noticed a gradual degradation in the quality and reliability of Apple’s core apps, on both the mobile iOS operating system and its Mac OS X platform. It’s almost as if the tech giant has taken its eye off the ball when it comes to these core software products while it pursues big new dreams, like smartwatches and cars.
+
+Let me be clear: Most of the time, in most scenarios, I find the core Apple apps work well enough, sometimes delightfully well. Otherwise, I couldn’t recommend the hardware. I love iMessage, the new Notes, Apple Pay, Touch ID, Safari, AirPlay and more. And it isn’t as though the core apps made by competitors are generally fabulous.
+
+But the exceptions are increasing. And I hold Apple to its own, higher, often-proclaimed standard, based on all those “It just works” claims and the oft-repeated contention by Mr. Jobs and his successor, Tim Cook, that Apple is in business to make “great products.” Apple’s advantage is that it designs and builds software together, so if the software isn’t excellent, it does the superlative hardware a disservice.
+
+Apple designs and builds software together, so if the software isn’t excellent, it does the superlative hardware a disservice.
+
+In response to my inquiries about this, Apple said: “We have dedicated software teams across multiple platforms. The effort is as strong there as it has ever been.” The company explains that these teams work on every major core app each year, but as with its hardware, some years see much more major revamps of some apps than others.
+
+Apple has, of course, had a few famous software misfires, like the MobileMe and iTunes Ping cloud services and the first iterations of Apple Maps (which has gotten vastly better). And, so far, Apple News is nothing to write home about, in my view.
+
+But I’m talking about more familiar mainstays, like Mail and Photos, iTunes and iCloud. In ways big and sometimes just small and nagging, I think they too often fail to meet Apple’s self-imposed standards. Sometimes this is on iOS, sometimes on OS X, sometimes on both.
+
+Here are a few examples.
+
+iTunes for the Desktop
+Apple’s iTunes program was once the envy of the world. A combined digital music store and player, it could also sync your iPod. And it worked on both Mac and Windows. It was reasonably fast and very sure-footed.
+
+Now, I dread opening the thing.
+
+Despite a big overhaul in 2012 that made it better for a while, iTunes is once again bloated, complex and sluggish. That has gotten even worse since the recent integration of the new Apple Music streaming service. Just the other day, I tried to sync two iPads to it (a rare event) and it took forever for the program to recognize them. On my three Macs, which were built from 2013-2015, iTunes is just too slow at almost every task.
+
+It’s time to disassemble the thing, the way Apple has done on iOS, where iTunes is just a store and each content type, such as music, videos and podcasts, has its own playback app.
+
+The company concedes that it has debated this question, but, so far, has come down on the side of keeping the huge program in one piece and working to make it faster and wring out any bugs that occur.
+
+Mail
+Apple’s desktop and mobile mail apps were once superb, but despite some nice feature additions, I find they’ve become slow and unreliable. This is especially true if you use Gmail, as a billion people now do. In my experience, on both platforms, Mail is slow at both receiving and sending Gmail messages, whether they are from personal or business accounts. Some messages don’t show up. Search misses things.
+
+Like many others I know who rely on Gmail, I’ve been forced to switch to, or at least add, Google’s Gmail app or website. Apple claims this is an issue beyond its control, or the control of any other email app vendor, because Gmail uses nonstandard technology that gives a speed advantage to the search giant’s own apps and sites. (Google has told me otherwise in the past.)
+
+But the problem goes beyond Gmail. You can find lots of other iOS and some new OS X email apps that try and help you do quick message triage, intelligently auto-sort various types of email and more. Apple hasn’t ventured into that territory, beyond enabling swiping actions for dealing with messages. Even its junk mail filters, once far superior to competitors’, are failing on me regularly these days.
+
+And the mobile version of Mail still can’t send mail to the contact groups you can make in Apple’s own contacts app. (The company says this is deliberate, that groups on the iPhone weren’t meant for use with Mail.)
+
+Photos
+Photos got a big upgrade on the Mac last year, when Apple finally retired the aging and creaky iPhoto and replaced it with an app just called Photos. The new app is much faster and cleaner.
+
+But in my experience, on the Mac, an accompanying, optional service, called iCloud Photo Library, which stores all your images in the cloud, tarnishes the improved experience. It works quickly and accurately on my iPhone and iPads, but is slow and balky on the desktop. I am not one of those people with 50,000 or 100,000 pictures, but it still takes forever on the Mac to find older photos, and some show up as just blank thumbnails. That isn’t Apple quality.
+
+Worse, Apple’s most brilliant built-in photo feature, shared iCloud libraries — personal, private social networks built around related photos — don’t always sync properly between iOS and the Mac. (The company says this isn’t a common occurrence.)
+
+iCloud
+Which brings me to what may be Apple’s most annoying, and consequential, software weakness: Cloud software. Some things in the Apple ecosystem, like Contacts and iMessages, sync great, in my experience. But in addition to the photo example above, I find that my own music (not Apple’s streaming music) sometimes has the wrong album art when fetched from iCloud. My Safari bookmarks only sync intermittently across my Apple devices. Unlike Amazon’s Kindle app for Apple products, the company’s iBooks doesn’t remember where I left off unless I set a bookmark. Trying to edit collaboratively and comment in the cloud version of Apple’s Pages word processor is much harder than in Google Docs.
+
+Lately, even cloud backup on iOS has failed for me, on both of my iPads. One of them hasn’t been able to back up to the cloud for five weeks. (That’s why I had to sync to iTunes.)
+
+The company is proud of its ability to make things work across devices, such as the Continuity and Handoff features that let you answer voice calls on a Mac or continue a task you started on the desktop on your phone. It attributes at least some of my complaints, like the iPad backup issue, to bugs particular to my setup.
+
+Maybe so. But there’s a larger pattern of cloud issues. And besides, it’s all supposed to just work.
+
+Bottom Line
+None of these things is insurmountable. And perhaps Apple is right that bugs do get quashed and that some of what I’m observing is due to my own setup. But I’m convinced there’s something broader going on here. Lots of small software disappointments and aggravations, adding up gradually over time, are putting the sterling experience of using Apple hardware at risk.
